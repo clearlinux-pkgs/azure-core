@@ -4,7 +4,7 @@
 #
 Name     : azure-core
 Version  : 1.5.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/b2/99/6522a2c1fb32a6c06a107abceab07f833884127770cf09b214c08e325dad/azure-core-1.5.0.zip
 Source0  : https://files.pythonhosted.org/packages/b2/99/6522a2c1fb32a6c06a107abceab07f833884127770cf09b214c08e325dad/azure-core-1.5.0.zip
 Summary  : Microsoft Azure Core Library for Python
