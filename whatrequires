@@ -1,0 +1,12 @@
+# This file contains recursive sources that require this package
+azure-appconfiguration
+azure-cosmos
+azure-keyvault-administration
+azure-keyvault-secrets
+azure-mgmt-core
+azure-multiapi-storage
+azure-storage-blob
+azure-synapse-accesscontrol
+azure-synapse-artifacts
+azure-synapse-spark
+smart_open
